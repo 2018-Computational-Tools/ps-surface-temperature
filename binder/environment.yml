@@ -1,3 +1,4 @@
 dependencies:
+- nbgitpuller
 - numpy
 - matplotlib
